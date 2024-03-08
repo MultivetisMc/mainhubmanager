@@ -10,14 +10,3 @@ There are some specific requirements you need to follow when making and proposin
 2. Create a new branch with a description of the changes you're making (`git checkout -b super-brief-description`);
 3. Make any changes you need, ensuring you add what you've changed in the commit message. If you're making big changes, use multiple commits for clarity (`git commit -a -m "Added 20 animal emoji"`);
 4. Create a pull request into the version branch being worked on and fill out the template provided ([create a pull request](https://github.com/MultivetisMc/mainhubmanager/pulls));
-
-#### Emoji Addition/Modification Requirements
-1. They're something everyone can and will use (not just for you);
-2. It's legal to use (if applicable, such as a company logo);
-3. You're allowed to use and edit the icon (check the licence for the image you're grabbing);
-4. It's appropriate and legal (nothing that's illegal or clearly inappropriate. If you have to question it, it's probably not appropriate);
-
-If none of the above stop you, check out the READMEs in the assets and resourcepack folder for more information and guidance.
-
-#### Hook Addition Requirements
-1. The plugin to hook into has a public repo that can be added to Maven.
